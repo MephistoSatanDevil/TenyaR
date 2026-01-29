@@ -68,7 +68,10 @@ LANGUAGE
          ~Russian~
          ~russian~
          ~TenyaThermidor/tra/russian/TTsetup.tra~
-
+LANGUAGE 
+         ~Simplified Chinese~
+         ~schinese~
+         ~TenyaThermidor/tra/schinese/TTsetup.tra~
 
 BEGIN ~Tenya Thermidor for BG:EE and EET~
 REQUIRE_PREDICATE GAME_IS ~bgee eet~ ~Version for BGEE or EET only~
